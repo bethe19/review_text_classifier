@@ -23,10 +23,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Models
-models/*.pkl
-models/*.joblib
-models/*.h5
 
 # Jupyter Notebook
 .ipynb_checkpoints
